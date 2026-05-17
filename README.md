@@ -138,12 +138,3 @@ Input (128×128×3)
 - **Split:** 80% train / 20% validation
 
 ---
-
-## 👤 Author
-
-**Kaung Sett Naing**
-- GitHub: [@KaungSettNaingKSN](https://github.com/KaungSettNaingKSN)
-
----
-
-*Built with ❤️ for smarter agriculture*
