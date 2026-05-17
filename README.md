@@ -66,7 +66,8 @@ Plant_Disease_Prediction/
 ├── 🧠 trained_model.keras          # Trained CNN model weights
 ├── 📊 training_hist.json           # Training accuracy/loss history
 ├── 🖼️  home_page.jpeg              # App homepage image
-└── 📋 requirement.txt              # Python dependencies
+├── 📋 requirements.txt             # Python dependencies
+└── 🐍 runtime.txt                  # Python version for Streamlit Cloud
 ```
 
 ---
