@@ -11,6 +11,8 @@
 
 ## ✨ Demo
 
+🌐 **Live App:** [plantdiseasepredictionksn.streamlit.app](https://plantdiseasepredictionksn.streamlit.app)
+
 Upload any plant leaf image and instantly get:
 - 🔍 **Disease name** detected by the model
 - 🌱 Works with **14 different crops**
