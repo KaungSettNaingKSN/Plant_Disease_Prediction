@@ -41,11 +41,6 @@ conda activate tensorflow_env
 pip install -r requirement.txt
 ```
 
-### 4. Download the trained model
-Download `trained_model.keras` and place it in the project root.
-
-> 📥 [Download from Google Drive](#) ← *(add your link here)*
-
 ### 5. Launch the app
 ```bash
 streamlit run main.py
